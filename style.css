@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Otomanopee+One&display=swap');
+body {
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0;
+}
+
+.first {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 200px;
+}
+
+hr {
+    width: 70%;
+    margin-bottom: 20px;
+    border-top: 1px dotted gray;
+}
+
+.name img {
+    width: 20%;
+    margin: 10px 40%;
+}
+
+.name h1 {
+    margin: 10px 47%;
+    font-size: 60px;
+}
+
+.name h2 {
+    margin: 10px 40%;
+}
+
+.name h2 span {
+    color: crimson;
+    font-weight: 700;
+}
+
+.name .status {
+    color: rgb(42, 11, 218);
+}
+
+
+/****************First section***************/
+
+.second {
+    margin-top: 50px;
+}
+
+.second h1 {
+    margin: 30px 35%;
+    font-size: 60px;
+    width: 50%;
+}
+
+.second p {
+    padding: 5%;
+}
+
+
+/****************Second section***************/
